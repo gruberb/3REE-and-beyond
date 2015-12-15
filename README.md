@@ -1,4 +1,4 @@
-# UpgradeToTheLatestJSBuzz
+# 3REE stack and beyond
 A collection of approved and curated articles about React,Redux, Immutable and Isomorphic JS apps
 
 ## Get ready with ES6
@@ -32,6 +32,7 @@ A collection of approved and curated articles about React,Redux, Immutable and I
 
 - [Getting started with Redux](https://egghead.io/series/getting-started-with-redux) (egghead.io Course)
 - [Redux Handbook](http://rackt.org/redux/index.html) (Web wiki)
+- [Redux talk](https://www.youtube.com/watch?v=xsSnOQynTHs) (YouTube video)
 
 ## Tutorials
 
