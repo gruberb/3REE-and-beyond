@@ -21,12 +21,14 @@ A collection of approved and curated articles about React,Redux, Immutable and I
 - [Learning ReactJS](https://scotch.io/tutorials/learning-react-getting-started-and-concepts) (Scotch.io article)
 - [React Fundamentals](https://egghead.io/series/react-fundamentals) (egghead.io course)
 - [Build your first ReactJS app](https://egghead.io/series/build-your-first-react-js-application) (egghead.io course)
+- [ReactJS for stupid people](http://blog.andrewray.me/reactjs-for-stupid-people/) (Blog post)
 
 ## Flux
 
 - [React Flux Architecture (ES6)](https://egghead.io/series/react-flux-architecture-es6) (egghead.io course)
 - [React.js Tutorial Pt 3: Architecting React.js Apps with Flux](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/) (Blog post)
 - [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e#.yk7emu5su) (Medium article)
+- [Flux for stupid people](http://blog.andrewray.me/flux-for-stupid-people/) (Blog post)
 
 ## Redux
 
