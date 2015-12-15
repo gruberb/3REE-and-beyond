@@ -32,10 +32,7 @@ A collection of approved and curated articles about React,Redux, Immutable and I
 
 - [Getting started with Redux](https://egghead.io/series/getting-started-with-redux) (egghead.io Course)
 - [Redux Handbook](http://rackt.org/redux/index.html) (Web wiki)
-- 
-
 
 ## Tutorials
 
 - [Fullstack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) (Blog post) 
-- 
