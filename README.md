@@ -1,7 +1,7 @@
 # UpgradeToTheLatestJSBuzz
 A collection of approved and curated articles about React,Redux, Immutable and Isomorphic JS apps
 
-## Level 1 - Get ready with ES6
+## Get ready with ES6
 
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) (Leanpub E-Book)
 - [ES6 overview in 350 bullet points](https://ponyfoo.com/articles/es6) (Blog post)
