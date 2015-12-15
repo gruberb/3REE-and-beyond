@@ -34,6 +34,12 @@ A collection of approved and curated articles about React,Redux, Immutable and I
 - [Redux Handbook](http://rackt.org/redux/index.html) (Web wiki)
 - [Redux talk](https://www.youtube.com/watch?v=xsSnOQynTHs) (YouTube video)
 
+
+## RethinkDB and Thinky.io (Node ORM for RethinkDB)
+- [Introduction to Thinky](http://thinky.io/documentation/)
+
+
 ## Tutorials
 
 - [Fullstack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) (Blog post) 
+- [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/) (Blog post)
