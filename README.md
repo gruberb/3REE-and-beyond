@@ -11,6 +11,7 @@ A collection of approved and curated articles about React,Redux, Immutable and I
 
 - [The Pain and the Joy of creating isomorphic apps in ReactJS](http://reactjsnews.com/isomorphic-react-in-real-life/) (Blog post)
 - [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.fq9d6lxrh) (Medium article)
+- [What is an isomorphic application?](https://www.lullabot.com/articles/what-is-an-isomorphic-application) (Blog post)
 
 ## Get to know Immutable 
 
